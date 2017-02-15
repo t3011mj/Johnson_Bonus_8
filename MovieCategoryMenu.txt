@@ -1,0 +1,11 @@
+**********************************************
+*  Welcome to the Movie List Application!    *
+*                                            *
+*  Please select one of the below options:   *
+*                                            *
+*  1. Animated                               *
+*  2. Drama                                  *
+*  3. Horror                                 * 
+*  4. Science Fiction                        *
+*                                            *
+**********************************************
